@@ -18,5 +18,5 @@ This directory documents recipes and patches for integrating external software i
 ## Porting policy
 Prefer minimal, reviewable, upstreamable patches. Pin exact source versions, checksums, tools and dependencies. Declare architecture/runtime support separately and distinguish cross-build success from runtime validation. Do not redistribute code without reviewing its exact terms.
 
-- [Central documentation index](https://github.com/Waizusora/Wicofe-Docs/blob/main/INDEX.md)
-- [Repository documentation map](https://github.com/Waizusora/Wicofe-Docs/blob/main/REPOSITORY_DOCUMENTATION_MAP.md)
+- [Central documentation index](https://github.com/Waizusora/Wicofe-Doc/blob/main/INDEX.md)
+- [Repository documentation map](https://github.com/Waizusora/Wicofe-Doc/blob/main/REPOSITORY_DOCUMENTATION_MAP.md)
